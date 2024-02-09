@@ -13,3 +13,8 @@ console.log(minus(2, 3));
 console.log("pembagian")
 const divide = (a, b) => a / b;
 console.log(divide(20, 3));
+
+console.log("sinconstan")
+const mathSin = (a) => Math.sin(a);
+console.log(mathSin(2));
+
